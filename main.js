@@ -8,6 +8,7 @@
 //👉 Write the function your CodeWarriors will start with below here:
   
 
+// it is possible in 2 lines of code
 
 
  function removeAndReverse(array){
